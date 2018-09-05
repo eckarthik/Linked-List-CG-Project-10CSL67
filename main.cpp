@@ -1,3 +1,8 @@
+/*********
+   Author: Karthik E C (1NC14CS043)
+   Website: http:/eckarthik.github.io
+*********/
+
 #include<iostream>
 #include<GL/glut.h>
 #include<Windows.h>
